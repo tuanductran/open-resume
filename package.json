@@ -19,7 +19,7 @@
     "@types/react-dom": "18.2.4",
     "@vercel/analytics": "^1.0.1",
     "autoprefixer": "10.4.16",
-    "eslint": "8.41.0",
+    "eslint": "8.51.0",
     "eslint-config-next": "13.5.5",
     "next": "13.5.5",
     "pdfjs": "^2.5.0",
