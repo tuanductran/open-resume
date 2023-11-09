@@ -1,5 +1,4 @@
 "use client";
-import { useEffect } from "react";
 import { useSetDefaultScale } from "components/Resume/hooks";
 import {
   MagnifyingGlassIcon,
@@ -26,12 +25,7 @@ const ResumeControlBar = ({
     documentSize,
   });
 
-  const [instance, update] = usePDF({ document });
-
-  // Hook to update pdf when document changes
-  useEffect(() => {
-    update();
-  }, [update, document]);
+  const [instance] = usePDF({ document });
 
   return (
     <div className="sticky bottom-0 left-0 right-0 flex h-[var(--resume-control-bar-height)] items-center justify-center px-[var(--resume-padding)] text-gray-600 lg:justify-between">
