@@ -23,7 +23,7 @@
     "eslint-config-next": "14.0.2",
     "next": "14.0.2",
     "pdfjs": "^2.5.0",
-    "pdfjs-dist": "^3.7.107",
+    "pdfjs-dist": "^4.0.0",
     "postcss": "8.4.31",
     "react": "18.2.0",
     "react-contenteditable": "^3.3.7",
