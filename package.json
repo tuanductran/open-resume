@@ -21,7 +21,7 @@
     "autoprefixer": "10.4.16",
     "eslint": "8.54.0",
     "eslint-config-next": "14.0.3",
-    "next": "14.0.3",
+    "next": "14.2.10",
     "pdfjs": "^2.5.0",
     "pdfjs-dist": "^4.0.0",
     "postcss": "8.4.31",
