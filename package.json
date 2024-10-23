@@ -20,7 +20,7 @@
     "@vercel/analytics": "^1.0.1",
     "autoprefixer": "10.4.16",
     "eslint": "8.54.0",
-    "eslint-config-next": "14.0.3",
+    "eslint-config-next": "14.2.16",
     "next": "14.0.3",
     "pdfjs": "^2.5.0",
     "pdfjs-dist": "^4.0.0",
